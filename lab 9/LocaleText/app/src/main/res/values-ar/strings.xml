@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لغة النص</string>
+    <string name="action_help">يساعد</string>
+    <string name="description">نوجا هي عائلة من الحلويات المصنوعة من السكر أو العسل والمكسرات المحمصة (اللوز والجوز والفستق والبندق والمكاديميا شائعة) ، بياض البيض المخفوق ، وأحيانًا الفاكهة المسكرة المقطعة. يتم استخدامه في مجموعة متنوعة من قطع الحلوى والشوكولاتة. </string>
+    <string name="nougat">حزمة نوجا كاندي</string>
+    <string name="help_text">إذا كنت بحاجة إلى مساعدة ، فاتصل بقسم الدعم لدينا.</string>
+</resources>
