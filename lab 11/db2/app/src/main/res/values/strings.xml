@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB Work App</string>
+    <string name="storage_types">Save data</string>
+    <string name="enter_text_to_be_saved">Enter word to be save</string>
+    <string name="text_saved">Word Saved:</string>
+    <string name="save_all">Save</string>
+    <string name="room_text"> To database</string>
+</resources>
